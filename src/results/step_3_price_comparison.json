@@ -1,0 +1,552 @@
+[
+    {
+        "name": {
+            "nameA": "Yaucono Cafe Instant\u00e1neo Regular 3.6 oz",
+            "nameB": "YAUCONO CAFE INSTANTANEO REGULAR, 3.6 OZ"
+        },
+        "price": {
+            "priceA": 4.22,
+            "priceB": 4.29
+        },
+        "unitPrice": {
+            "unitPriceA": 2.34,
+            "unitPriceB": 1.1916666666666667
+        },
+        "categories": {
+            "categoryA": "Subscription Grocery -> browse pantry staples -> browse subscription pantry",
+            "categoryB": "Provisions -> Drinks -> Caf\u00e9"
+        },
+        "variantLabels": {
+            "variantLabelA": "oz",
+            "variantLabelB": "oz"
+        },
+        "priceDiscrepancy": 0.07000000000000028,
+        "unitPriceDiscrepancy": 1.1483333333333332,
+        "score": 91.18745332337565
+    },
+    {
+        "name": {
+            "nameA": "Famosito Fruit Punch 10pk 6.75oz",
+            "nameB": "FAMOSITOS FRUIT PUNCH 10PK, 6.75 OZ"
+        },
+        "price": {
+            "priceA": 2.87,
+            "priceB": 2.0
+        },
+        "unitPrice": {
+            "unitPriceA": 0.043,
+            "unitPriceB": 0.2962962962962963
+        },
+        "categories": {
+            "categoryA": "Beverages -> Juices -> Fruit Punch",
+            "categoryB": "Provisions -> Drinks -> Pouch"
+        },
+        "variantLabels": {
+            "variantLabelA": "",
+            "variantLabelB": "oz"
+        },
+        "priceDiscrepancy": 0.8700000000000001,
+        "unitPriceDiscrepancy": 0.2532962962962963,
+        "score": 92.35209235209236
+    },
+    {
+        "name": {
+            "nameA": "Goya Aceitunas Negras Picadas 5.75 Oz",
+            "nameB": "GOYA ACEITUNAS NEGRAS PICADAS, 5.75 OZ"
+        },
+        "price": {
+            "priceA": 2.47,
+            "priceB": 3.09
+        },
+        "unitPrice": {
+            "unitPriceA": 0.43,
+            "unitPriceB": 0.5373913043478261
+        },
+        "categories": {
+            "categoryA": "International Food -> Latin and Hispanic Foods -> Latin foods",
+            "categoryB": "Provisions -> Condiments -> olives"
+        },
+        "variantLabels": {
+            "variantLabelA": "oz",
+            "variantLabelB": "oz"
+        },
+        "priceDiscrepancy": 0.6199999999999997,
+        "unitPriceDiscrepancy": 0.10739130434782612,
+        "score": 94.21052631578948
+    },
+    {
+        "name": {
+            "nameA": "Brookfield Butter 16 oz",
+            "nameB": "BROOKFIELD BUTTER, 16 OZ"
+        },
+        "price": {
+            "priceA": 5.47,
+            "priceB": 7.15
+        },
+        "unitPrice": {
+            "unitPriceA": 0.342,
+            "unitPriceB": 0.446875
+        },
+        "categories": {
+            "categoryA": "Food -> Baking -> Butter, Oils, & Shortening",
+            "categoryB": "Dairy -> Butters and Margarines -> Mantequilla"
+        },
+        "variantLabels": {
+            "variantLabelA": "oz",
+            "variantLabelB": "oz"
+        },
+        "priceDiscrepancy": 1.6800000000000006,
+        "unitPriceDiscrepancy": 0.104875,
+        "score": 94.66666666666667
+    },
+    {
+        "name": {
+            "nameA": "Goya Extra Virgin Olive Oil 3fo",
+            "nameB": "GOYA EXTRA VIRGIN OLIVE OIL, 3 OZ"
+        },
+        "price": {
+            "priceA": 2.28,
+            "priceB": 2.49
+        },
+        "unitPrice": {
+            "unitPriceA": 0.76,
+            "unitPriceB": 0.8300000000000001
+        },
+        "categories": {
+            "categoryA": "Pantry -> Cooking oils & vinegar -> Cooking oils",
+            "categoryB": "Provisions -> Oil -> Oliva"
+        },
+        "variantLabels": {
+            "variantLabelA": "",
+            "variantLabelB": "oz"
+        },
+        "priceDiscrepancy": 0.2100000000000004,
+        "unitPriceDiscrepancy": 0.07000000000000006,
+        "score": 90.03861003861003
+    },
+    {
+        "name": {
+            "nameA": "Nesquik Chocolate Powder 20.1oz",
+            "nameB": "NESQUIK CHOCOLATE POWDER, 20.1 OZ"
+        },
+        "price": {
+            "priceA": 5.46,
+            "priceB": 6.35
+        },
+        "unitPrice": {
+            "unitPriceA": 0.272,
+            "unitPriceB": 0.3159203980099502
+        },
+        "categories": {
+            "categoryA": "Food -> Dairy & Eggs -> Milk",
+            "categoryB": "Provisions -> Drinks -> Chocolatina"
+        },
+        "variantLabels": {
+            "variantLabelA": "oz",
+            "variantLabelB": "oz"
+        },
+        "priceDiscrepancy": 0.8899999999999997,
+        "unitPriceDiscrepancy": 0.04392039800995018,
+        "score": 93.01587301587303
+    },
+    {
+        "name": {
+            "nameA": "Butterball, Turkey, Sausage, 13 OZ",
+            "nameB": "BUTTERBALL TURKEY SAUSAGE, 13 OZ"
+        },
+        "price": {
+            "priceA": 5.48,
+            "priceB": 5.59
+        },
+        "unitPrice": {
+            "unitPriceA": 0.389375,
+            "unitPriceB": 0.43
+        },
+        "categories": {
+            "categoryA": "Food -> Meat & Seafood -> Bacon, Hot Dogs, & Sausages",
+            "categoryB": "Meats and Seafood -> Carnes -> Sausages"
+        },
+        "variantLabels": {
+            "variantLabelA": "oz",
+            "variantLabelB": "oz"
+        },
+        "priceDiscrepancy": 0.10999999999999943,
+        "unitPriceDiscrepancy": 0.04062499999999997,
+        "score": 92.36789297658862
+    },
+    {
+        "name": {
+            "nameA": "Campoverde Jumbo Strawberries 3lbs",
+            "nameB": "CAMPOVERDE JUMBO STRAWBERRIES, 3 LB"
+        },
+        "price": {
+            "priceA": 10.98,
+            "priceB": 9.49
+        },
+        "unitPrice": {
+            "unitPriceA": 0.229,
+            "unitPriceB": 0.19770833333333335
+        },
+        "categories": {
+            "categoryA": "Frozen Foods -> Frozen Fruits & Vegetables -> Frozen Fruit",
+            "categoryB": "Dairy -> Frozen Fruits -> Uncategorized"
+        },
+        "variantLabels": {
+            "variantLabelA": "oz",
+            "variantLabelB": "oz"
+        },
+        "priceDiscrepancy": 1.4900000000000002,
+        "unitPriceDiscrepancy": 0.03129166666666666,
+        "score": 92.50758035172832
+    },
+    {
+        "name": {
+            "nameA": "Campoverde Mango Chunks 3lbs",
+            "nameB": "CAMPOVERDE MANGO CHUNKS, 3 LB"
+        },
+        "price": {
+            "priceA": 10.98,
+            "priceB": 9.49
+        },
+        "unitPrice": {
+            "unitPriceA": 0.229,
+            "unitPriceB": 0.19770833333333335
+        },
+        "categories": {
+            "categoryA": "Frozen Foods -> Frozen Fruits & Vegetables -> Frozen Fruit",
+            "categoryB": "Dairy -> Frozen Fruits -> Uncategorized"
+        },
+        "variantLabels": {
+            "variantLabelA": "oz",
+            "variantLabelB": "oz"
+        },
+        "priceDiscrepancy": 1.4900000000000002,
+        "unitPriceDiscrepancy": 0.03129166666666666,
+        "score": 91.94035346097202
+    },
+    {
+        "name": {
+            "nameA": "Don Goyo Azucar Negra 2 lbs",
+            "nameB": "DON GOYO AZUCAR NEGRA, 2 LB"
+        },
+        "price": {
+            "priceA": 2.56,
+            "priceB": 3.45
+        },
+        "unitPrice": {
+            "unitPriceA": 0.08,
+            "unitPriceB": 0.1078125
+        },
+        "categories": {
+            "categoryA": "Food -> Baking -> Baking Ingredients",
+            "categoryB": "Provisions -> Sweeteners -> Brown Sugar"
+        },
+        "variantLabels": {
+            "variantLabelA": "oz",
+            "variantLabelB": "oz"
+        },
+        "priceDiscrepancy": 0.8900000000000001,
+        "unitPriceDiscrepancy": 0.027812500000000004,
+        "score": 92.5685534591195
+    },
+    {
+        "name": {
+            "nameA": "American Valu Honey Ham, 8 Oz.",
+            "nameB": "AMERICAN VALUE HONEY HAM, 8 OZ"
+        },
+        "price": {
+            "priceA": 3.22,
+            "priceB": 3.0
+        },
+        "unitPrice": {
+            "unitPriceA": 0.4025,
+            "unitPriceB": 0.375
+        },
+        "categories": {
+            "categoryA": "Deli -> Deli Meat & Cheese -> Ham Lunch Meat",
+            "categoryB": "Dairy -> Cold Cuts -> Ham"
+        },
+        "variantLabels": {
+            "variantLabelA": "oz",
+            "variantLabelB": "oz"
+        },
+        "priceDiscrepancy": 0.2200000000000002,
+        "unitPriceDiscrepancy": 0.027500000000000024,
+        "score": 90.35126504544338
+    },
+    {
+        "name": {
+            "nameA": "Campoverde Banana Mania 3lb",
+            "nameB": "CAMPOVERDE BANANA MANIA, 3 LB"
+        },
+        "price": {
+            "priceA": 11.97,
+            "priceB": 12.99
+        },
+        "unitPrice": {
+            "unitPriceA": 0.249,
+            "unitPriceB": 0.270625
+        },
+        "categories": {
+            "categoryA": "Frozen Foods -> Frozen Fruits & Vegetables -> Frozen Fruit",
+            "categoryB": "Dairy -> Frozen Fruits -> Uncategorized"
+        },
+        "variantLabels": {
+            "variantLabelA": "oz",
+            "variantLabelB": "oz"
+        },
+        "priceDiscrepancy": 1.0199999999999996,
+        "unitPriceDiscrepancy": 0.021625000000000005,
+        "score": 93.5182755388941
+    },
+    {
+        "name": {
+            "nameA": "Don Goyo Azucar Negra 1 lb",
+            "nameB": "DON GOYO AZUCAR NEGRA, 2 LB"
+        },
+        "price": {
+            "priceA": 1.46,
+            "priceB": 3.45
+        },
+        "unitPrice": {
+            "unitPriceA": 0.091,
+            "unitPriceB": 0.1078125
+        },
+        "categories": {
+            "categoryA": "Food -> Baking -> Baking Ingredients",
+            "categoryB": "Provisions -> Sweeteners -> Brown Sugar"
+        },
+        "variantLabels": {
+            "variantLabelA": "oz",
+            "variantLabelB": "oz"
+        },
+        "priceDiscrepancy": 1.9900000000000002,
+        "unitPriceDiscrepancy": 0.016812500000000008,
+        "score": 90.80512820512821
+    },
+    {
+        "name": {
+            "nameA": "Del Monte Pineapple Slices in 100% Juice, 15.25 oz",
+            "nameB": "DEL MONTE PINEAPPLE SLICES IN JUICE, 15.25 OZ"
+        },
+        "price": {
+            "priceA": 2.38,
+            "priceB": 2.15
+        },
+        "unitPrice": {
+            "unitPriceA": 0.156,
+            "unitPriceB": 0.14098360655737704
+        },
+        "categories": {
+            "categoryA": "Pantry -> Canned goods -> Canned fruit",
+            "categoryB": "Provisions -> Canned Fruits -> Pi\u00f1a"
+        },
+        "variantLabels": {
+            "variantLabelA": "oz",
+            "variantLabelB": "oz"
+        },
+        "priceDiscrepancy": 0.22999999999999998,
+        "unitPriceDiscrepancy": 0.015016393442622955,
+        "score": 90.00874380647043
+    },
+    {
+        "name": {
+            "nameA": "Goya Spaghetti16 Oz",
+            "nameB": "GOYA SPAGHETTI, 16 OZ"
+        },
+        "price": {
+            "priceA": 1.68,
+            "priceB": 1.89
+        },
+        "unitPrice": {
+            "unitPriceA": 0.105,
+            "unitPriceB": 0.118125
+        },
+        "categories": {
+            "categoryA": "Pantry -> Pasta & pizza -> Dry pasta",
+            "categoryB": "Provisions -> Pastas -> Spaghetti"
+        },
+        "variantLabels": {
+            "variantLabelA": "oz",
+            "variantLabelB": "oz"
+        },
+        "priceDiscrepancy": 0.20999999999999996,
+        "unitPriceDiscrepancy": 0.013124999999999998,
+        "score": 92.90969899665552
+    },
+    {
+        "name": {
+            "nameA": "Mity Fresh Shoestring Fries 14 oz",
+            "nameB": "MITY FRESH SHOESTRING FRIES, 14 OZ"
+        },
+        "price": {
+            "priceA": 1.68,
+            "priceB": 1.5
+        },
+        "unitPrice": {
+            "unitPriceA": 0.12,
+            "unitPriceB": 0.10714285714285714
+        },
+        "categories": {
+            "categoryA": "Frozen Foods -> Frozen Potatoes -> Frozen Fries",
+            "categoryB": "Dairy -> Frozen Potatoes -> Uncategorized"
+        },
+        "variantLabels": {
+            "variantLabelA": "oz",
+            "variantLabelB": "oz"
+        },
+        "priceDiscrepancy": 0.17999999999999994,
+        "unitPriceDiscrepancy": 0.012857142857142859,
+        "score": 96.36363636363636
+    },
+    {
+        "name": {
+            "nameA": "GOYA Coco Pina Colada Mix 12 Oz",
+            "nameB": "GOYA COCO PINA COLADA MIX, 12 OZ"
+        },
+        "price": {
+            "priceA": 1.74,
+            "priceB": 1.89
+        },
+        "unitPrice": {
+            "unitPriceA": 0.145,
+            "unitPriceB": 0.1575
+        },
+        "categories": {
+            "categoryA": "Alcohol -> Pre-Mixed Cocktails -> Pina Colada",
+            "categoryB": "Dairy -> Creams -> Coconut Cream"
+        },
+        "variantLabels": {
+            "variantLabelA": "",
+            "variantLabelB": "oz"
+        },
+        "priceDiscrepancy": 0.1499999999999999,
+        "unitPriceDiscrepancy": 0.012500000000000011,
+        "score": 94.41558441558442
+    },
+    {
+        "name": {
+            "nameA": "Goya Sal Yodada Baja En Sodio 23 Oz",
+            "nameB": "GOYA SAL YODADA BAJA EN SODIO, 23 OZ"
+        },
+        "price": {
+            "priceA": 2.18,
+            "priceB": 2.45
+        },
+        "unitPrice": {
+            "unitPriceA": 0.095,
+            "unitPriceB": 0.10652173913043479
+        },
+        "categories": {
+            "categoryA": "International Food -> Latin and Hispanic Foods -> Latin foods",
+            "categoryB": "Provisions -> Condiments -> Salt and Pepper"
+        },
+        "variantLabels": {
+            "variantLabelA": "oz",
+            "variantLabelB": "oz"
+        },
+        "priceDiscrepancy": 0.27,
+        "unitPriceDiscrepancy": 0.011521739130434791,
+        "score": 94.03846153846153
+    },
+    {
+        "name": {
+            "nameA": "Mity Fresh Broccoli Cuts 16 Oz",
+            "nameB": "MITY FRESH BROCCOLI CUTS, 16 OZ"
+        },
+        "price": {
+            "priceA": 2.38,
+            "priceB": 2.45
+        },
+        "unitPrice": {
+            "unitPriceA": 0.149,
+            "unitPriceB": 0.153125
+        },
+        "categories": {
+            "categoryA": "Frozen Foods -> Frozen Fruits & Vegetables -> Frozen Vegetables",
+            "categoryB": "Dairy -> Frozen Vegetables -> Broccoli"
+        },
+        "variantLabels": {
+            "variantLabelA": "oz",
+            "variantLabelB": "oz"
+        },
+        "priceDiscrepancy": 0.07000000000000028,
+        "unitPriceDiscrepancy": 0.0041250000000000175,
+        "score": 95.74257425742574
+    },
+    {
+        "name": {
+            "nameA": "Goya Tamarind Nectar, 33.8 oz",
+            "nameB": "GOYA TAMARIND NECTAR, 33.8 OZ"
+        },
+        "price": {
+            "priceA": 2.08,
+            "priceB": 1.99
+        },
+        "unitPrice": {
+            "unitPriceA": 0.062,
+            "unitPriceB": 0.05887573964497042
+        },
+        "categories": {
+            "categoryA": "Beverages -> Juices -> All Juices",
+            "categoryB": "Provisions -> Drinks -> Juices and Nectars"
+        },
+        "variantLabels": {
+            "variantLabelA": "",
+            "variantLabelB": "oz"
+        },
+        "priceDiscrepancy": 0.09000000000000008,
+        "unitPriceDiscrepancy": 0.003124260355029579,
+        "score": 93.22105263157894
+    },
+    {
+        "name": {
+            "nameA": "Borden Spreadable Butter with Canola Oil, 8 oz Tub",
+            "nameB": "BORDEN SPREADABLE BUTTER WITH CANOLA OIL, 8 OZ"
+        },
+        "price": {
+            "priceA": 3.97,
+            "priceB": 3.99
+        },
+        "unitPrice": {
+            "unitPriceA": 0.496,
+            "unitPriceB": 0.49875
+        },
+        "categories": {
+            "categoryA": "Dairy & Eggs -> Butter & Margarine -> Butter Spreads",
+            "categoryB": "Dairy -> Butters and Margarines -> Mantequilla"
+        },
+        "variantLabels": {
+            "variantLabelA": "oz",
+            "variantLabelB": "oz"
+        },
+        "priceDiscrepancy": 0.020000000000000018,
+        "unitPriceDiscrepancy": 0.00275000000000003,
+        "score": 91.99785177228787
+    },
+    {
+        "name": {
+            "nameA": "Gullon Sugar-Free Fiber Cookies, 6 oz.",
+            "nameB": "GULLON SUGAR FREE FIBER COOKIES, 6 OZ"
+        },
+        "price": {
+            "priceA": 2.68,
+            "priceB": 2.69
+        },
+        "unitPrice": {
+            "unitPriceA": 0.447,
+            "unitPriceB": 0.4483333333333333
+        },
+        "categories": {
+            "categoryA": "Snacks, Cookies & Chips -> Cookies -> Shop All Cookies",
+            "categoryB": "Provisions -> Cookies -> Healthy"
+        },
+        "variantLabels": {
+            "variantLabelA": "oz",
+            "variantLabelB": "oz"
+        },
+        "priceDiscrepancy": 0.009999999999999787,
+        "unitPriceDiscrepancy": 0.0013333333333332975,
+        "score": 90.48397234443748
+    }
+]
